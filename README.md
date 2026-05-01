@@ -71,13 +71,13 @@ a competitive product launch event. See `data/README.md` for schema documentatio
 ## Citation
 
 ```bibtex
-@article{elsayed2025caps,
+@article{elsayed2026caps,
   title={Inferring Purchasing Power Patterns from Competitive Market Signals:
          A Conceptual Framework Integrating Behavioral Dimensionality Reduction
          and Qualitative Refinement},
   author={Elsayed, Ahmed},
   journal={},
-  year={2025},
+  year={2026},
   note={CAPS Framework v1.0.0},
   url={https://github.com/ahmed-elsayed-99/caps-framework}
 }

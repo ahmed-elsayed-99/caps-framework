@@ -76,7 +76,7 @@ a competitive product launch event. See `data/README.md` for schema documentatio
          A Conceptual Framework Integrating Behavioral Dimensionality Reduction
          and Qualitative Refinement},
   author={Elsayed, Ahmed},
-  journal={},
+  journal={SSRN},
   year={2026},
   note={CAPS Framework v1.0.0},
   url={https://github.com/ahmed-elsayed-99/caps-framework}
